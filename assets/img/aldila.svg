@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750" role="img" aria-label="Aldila">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FCE4EC"/>
+      <stop offset="1" stop-color="#F8BBD0"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#g)"/>
+  <circle cx="300" cy="280" r="110" fill="#FFFFFF" fill-opacity="0.35"/>
+  <path d="M120 700 C120 520 200 430 300 430 C400 430 480 520 480 700 Z" fill="#FFFFFF" fill-opacity="0.35"/>
+  <circle cx="300" cy="280" r="110" fill="none" stroke="#D4AF37" stroke-width="4"/>
+  <path d="M120 700 C120 520 200 430 300 430 C400 430 480 520 480 700" fill="none" stroke="#D4AF37" stroke-width="4"/>
+  <text x="300" y="640" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#4A1942">Aldila</text>
+  <text x="300" y="700" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" letter-spacing="6" fill="#4A1942" fill-opacity="0.7">PHOTO</text>
+</svg>
